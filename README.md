@@ -1,4 +1,4 @@
-# 3n3scan's 3n3scan's Riot Vanguard Tool
+# 3n3scan's Riot Vanguard Tool
 - This is made for educational purposes only. I am not responsible for any misuse of these.
 - This script is used to deactivates and delete Riot Vanguard + Services
 
